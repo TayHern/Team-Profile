@@ -3,9 +3,10 @@
 
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
 ## Description
+This is a CLI application for those who need a way to be able to gather up their employees information in a one stop html for the team to use to exchange information
 
 
-![images]()
+
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
@@ -15,9 +16,9 @@
 - [Tests](#tests)
 - [Questions](#questions)
 ## Installation
-Just run the application by going to <link>
+Just run the application by downloading the code and going to https://www.youtube.com/watch?v=yuxoeOchelw
 ## Usage
-Who is the indtende audience?
+Team managers who need a way to organize their teams effectively for busy lifestyles.
 ## License
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
 <br />
